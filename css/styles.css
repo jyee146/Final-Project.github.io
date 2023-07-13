@@ -1,0 +1,203 @@
+p {font-family: 'Arial', sans-serif;
+}
+
+.iphone-banner {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .left {
+    flex: 1;
+    dislay: flex;
+    align-items: center;
+  }
+  
+  .icon {
+    font-size: 15px;
+    margin-right: 10px;
+  }
+  
+  .contain {
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+    justify-content: center;
+  }
+  
+  .logo {
+    margin-right: 10px;
+  }
+  
+  body {
+    background-color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+  }
+  
+  h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  form input {
+    width: 80%;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px auto;
+    border-bottom: 1px solid black;
+  }
+  
+  form input[type="submit"] {
+    width: 40%;
+    background-color: #007AFF;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  form input[type="submit"]:hover {
+    background-color: #1434A4;
+  }
+  
+  .alternative-ways {
+    margin-top: 20px;
+  }
+  
+  button {
+    display: block;
+    width: 75%;
+    height: 40px;
+    font-size: 15px;
+    margin: 10px auto;
+    border: 1px solid black;
+    border-radius: 40px;
+  }
+  
+  @media only screen and (max-width: 480px) {
+    p {font-family: 'Arial', sans-serif;
+    }
+
+    .iphone-banner {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .left {
+    flex: 1;
+    dislay: flex;
+    align-items: center;
+  }
+    
+  .icon {
+    font-size: 15px;
+    margin-right: 10px;
+  }
+    
+    .container {
+      padding: 10px;
+    }
+    
+    img {
+      width: 60px;
+      height: 60px;
+    }
+    
+    h1 {
+      font-size: 20px;
+    }
+   
+    .contain {
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+    justify-content: center;
+  }
+  
+  .logo {
+    margin-right: 10px;
+  }
+  
+  body {
+    background-color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+  }
+  
+  h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  form input {
+    width: 80%;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px auto;
+    border-bottom: 1px solid black;
+  }
+  
+  form input[type="submit"] {
+    width: 40%;
+    background-color: #007AFF;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  form input[type="submit"]:hover {
+    background-color: #1434A4;
+  }
+  
+  .alternative-ways {
+    margin-top: 20px;
+  }
+  
+  button {
+    display: block;
+    width: 75%;
+    height: 40px;
+    font-size: 15px;
+    margin: 10px auto;
+    border: 1px solid black;
+    border-radius: 40px;
+  }
